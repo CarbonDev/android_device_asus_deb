@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 
-<!-- Phone app resources that may need to be customized
+<!-- Telephony service resources that may need to be customized
      for different hardware or product builds. -->
 <resources>
     <!-- Configure certain GsmUmtsOptions to be available or not. The
