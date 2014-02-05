@@ -18,6 +18,10 @@
 # name
 PRODUCT_RELEASE_NAME := Nexus7LTE
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_SCREEN_WIDTH := 1080
+
 # device
 $(call inherit-product, device/asus/deb/aosp_deb.mk)
 
